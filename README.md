@@ -37,13 +37,13 @@ CODSOFT_TASKS/
 
 ## 📌 Internship Tasks
 
-| Task No. | Project | Status |
-|----------|---------|--------|
-| Task 1 | To-Do List | ✅ Completed |
-| Task 2 | Calculator | ✅ Completed |
-| Task 3 | Password Generator | ⏳ Coming Soon |
-| Task 4 | Rock Paper Scissors Game | ⏳ Coming Soon |
-| Task 5 | Contact Book | ⏳ Coming Soon |
+| Task No. | Project 
+|----------|---------
+| Task 1 | To-Do List 
+| Task 2 | Calculator
+| Task 3 | Password Generator 
+| Task 4 | Rock Paper Scissors Game 
+| Task 5 | Contact Book 
 
 ---
 
