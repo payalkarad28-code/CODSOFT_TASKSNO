@@ -66,25 +66,13 @@ CODSOFT_TASKS/
 ---
 
 ## 🚀 How to Run
+1. Download or clone this repository.
 
-1. Clone the repository
+2. Open the project folder in VS Code.
 
-```bash
-git clone https://github.com/payalkarad28-code/CODSOFT_TASKS.git
-```
+3. Open the terminal.
 
-2. Move to the project folder
-
-```bash
-cd CODSOFT_TASKS
-```
-
-3. Run any project
-
-```bash
-python filename.py
-```
-
+4. Run the desired Python file.
 ---
 
 ## 📜 License
